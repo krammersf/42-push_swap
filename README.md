@@ -72,7 +72,15 @@ It can be summarized as follows:
 
 ## Bonus
 
-## Grade: 100 / 100
+The bonus part is to write a program named checker, which will get as an argument the stack A formatted as a list of integers. Checker will then wait and read instructions on the standard input. Once all the instructions have been read, checker will execute them on the stack received as an argument (After giving the instructions press ctrl + d).
+
+If after executing those instructions, stack a is actually sorted and b is empty, then checker must display "OK" else "KO". If checker arguments are invalid it displays Error.
+
+The checker code can be found in the checker_linux file in this subject directory in this repository.
+
+Run `./checker <numeric argument/s>` to start `<set instruction/s>` EXIT  --> control 'd'
+
+## Grade: 125 / 100
 
 ## Used Tests
 - Push-Swap-Tester: https://github.com/gemartin99/Push-Swap-Tester
