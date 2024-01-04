@@ -78,7 +78,7 @@ If after executing those instructions, stack a is actually sorted and b is empty
 
 The checker code can be found in the checker_linux file in this subject directory in this repository.
 
-Run `./checker <numeric argument/s>` to start `<set instruction/s>` EXIT  --> control 'd'
+Run  `./checker <numeric argument/s>`  to start  `<set instruction/s>`  EXIT  --> control 'd'
 
 ## Grade: 125 / 100
 
